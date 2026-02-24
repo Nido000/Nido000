@@ -12,26 +12,28 @@
 
 💻 Tech Stack:
 
-Languages
-Mostra immagine
-Mostra immagine
-Mostra immagine
-Mostra immagine
-Tools & Editors
-Mostra immagine
-Mostra immagine
-Mostra immagine
-Mostra immagine
-OS & Environment
-Mostra immagine
-Mostra immagine
-
-📊 GitHub Stats:
-
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nido&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nido&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
+🖥️ Languages
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="50" height="50"/>
 </div>
+<br>
+🛠️ Tools & Editors
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" title="CMake" alt="CMake" width="50" height="50"/>
+</div>
+<br>
+🖥️ OS & Environment
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows" alt="Windows" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="50" height="50"/>
+</div>
+
 <div align="center">
 Mostra immagine
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3776AB,50:00599C,100:0d1117&height=120&section=footer"/>
