@@ -36,5 +36,5 @@
 </div>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89179e14a346c4bd94caab/images/footer.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3776AB,50:00599C,100:0d1117&height=100&section=footer" width="100%"/>
 </div>
