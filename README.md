@@ -36,6 +36,5 @@
 </div>
 
 <div align="center">
-Mostra immagine
-Mostra immagine
+<img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89179e14a346c4bd94caab/images/footer.svg" width="100%"/>
 </div>
