@@ -37,5 +37,4 @@
 
 <div align="center">
 Mostra immagine
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3776AB,50:00599C,100:0d1117&height=120&section=footer"/>
 </div>
