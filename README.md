@@ -37,4 +37,5 @@
 
 <div align="center">
 Mostra immagine
+Mostra immagine
 </div>
