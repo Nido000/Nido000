@@ -12,20 +12,25 @@
 
 💻 Tech Stack:
 
+Languages
 Mostra immagine
 Mostra immagine
 Mostra immagine
 Mostra immagine
+Tools & Editors
 Mostra immagine
 Mostra immagine
+Mostra immagine
+Mostra immagine
+OS & Environment
 Mostra immagine
 Mostra immagine
 
 📊 GitHub Stats:
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nido&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nido&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nido&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nido&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
 </div>
 <div align="center">
 Mostra immagine
